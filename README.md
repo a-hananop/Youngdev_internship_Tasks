@@ -10,13 +10,13 @@ A structured collection of Python programs to build your skills from beginner to
 
 This repo is organized into three main tasks, each targeting specific Python concepts:
 
-- **Task 3: Basic Python Programs**  
-- **Task 4: Intermediate Python Tasks**  
-- **Task 5: Mini Python Project**
+- **Task 1: Basic Python Programs**  
+- **Task 2: Intermediate Python Tasks**  
+- **Task 3: Mini Python Project**
 
 ---
 
-## Task 3 – Basic Python Programs  
+## Task 1 – Basic Python Programs  
 **Objective:** Build a strong foundation in Python programming by solving beginner-friendly problems.
 
 ### Key Features:  
@@ -34,7 +34,7 @@ This repo is organized into three main tasks, each targeting specific Python con
 
 ---
 
-## Task 4 – Intermediate Python Tasks  
+## Task 2 – Intermediate Python Tasks  
 **Objective:** Advance your Python skills by working with data structures, modular design, file operations, and OOP.
 
 ### Key Features:  
@@ -51,7 +51,7 @@ This repo is organized into three main tasks, each targeting specific Python con
 
 ---
 
-## Task 5 – Mini Python Project  
+## Task 3 – Mini Python Project  
 **Objective:** Integrate your knowledge by creating a practical application that simulates a real-world scenario.
 
 ### Key Features:  
